@@ -25,8 +25,8 @@ recent_files1 = find_most_recent_files(directory, pattern1)
 recent_files2 = find_most_recent_files(directory, pattern2)
 
 # Email credentials and setup
-user_id = "adrianoaguzzi@bluewin.ch"
-password = "8528Scrap10!1"
+user_id = "***"
+password = "***"
 sender_email = "adrianoaguzzi@bluewin.ch"
 receiver_emails = ["adriano.aguzzi@usz.ch", "adrianoaguzzi@bluewin.ch"]
 subject = "Monatsabrechnung Frau Signer Appenzell"
